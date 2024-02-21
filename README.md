@@ -11,6 +11,8 @@ The focus on grocery specials is expected to position CartLite as a go-to platfo
 * CSS for styling, and JavaScript for functionality.
 # Links
 ![image](https://github.com/Thumeka/Cart_lite/assets/128834708/1ca07f24-dd2d-45c0-9691-094e8f4ee023)
+![image](https://github.com/Thumeka/Cart_lite/assets/128834708/33582044-dd5b-4bee-98c9-7b5ee605f57f)
+![image](https://github.com/Thumeka/Cart_lite/assets/128834708/a39af81b-77a8-4629-a836-9d53d8b955e1)
 * Deployed site:http://thumekat.me/Cart_lite/
 * Github-Pages
 * Authors:https://www.linkedin.com/in/thumeka-tembani

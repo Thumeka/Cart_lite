@@ -12,6 +12,7 @@ The focus on grocery specials is expected to position CartLite as a go-to platfo
 # Links
 ![image](https://github.com/Thumeka/Cart_lite/assets/128834708/1ca07f24-dd2d-45c0-9691-094e8f4ee023)
 * Deployed site:http://thumekat.me/Cart_lite/
+* Github-Pages
 * Authors:https://www.linkedin.com/in/thumeka-tembani
 # Installation
 * Clone this repository to your local machine.

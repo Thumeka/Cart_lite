@@ -7,7 +7,7 @@ document.querySelector('#search-btn').onclick = () =>{
     navbar.classList.remove('active');
 }
 
-let storeCart = document.querySelector('.store');
+let shoppingCart = document.querySelector('.shopping-cart');
 
 document.querySelector('#cart-btn').onclick = () =>{
     shoppingCart.classList.toggle('active');
@@ -19,7 +19,7 @@ document.querySelector('#cart-btn').onclick = () =>{
 let loginForm = document.querySelector('.login-form');
 
 document.querySelector('#login-btn').onclick = () =>{
-    loginForm.clasOAsList.toggle('active');
+    loginForm.classList.toggle('active');
     searchForm.classList.remove('active');
     shoppingCart.classList.remove('active');
     navbar.classList.remove('active');
